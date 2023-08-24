@@ -1,6 +1,6 @@
 # Hangman App
 
-<img src="/hangman.png" width="30%" height="30%"></img>
+<img src="/hangman.png" width="20%" height="20%"></img>
 <br>
 Credit: <a href="https://www.englishclub.com/">EnglishClub.com</a>
 <hr>
