@@ -15,7 +15,7 @@ Credit: <a href="https://crescent.edu/">Crescent School Gaming and Bartending</a
 </p>
 
 <p>
-  The game entails guessing the word you are given. Each guess needs to be any letter in the English alphabet. You start out with 6 lives. If your guess is wrong, then you get detracted 1 life     from your remaining lives. In case you have already guessed a certain letter, you do not lose a life, and are asked to keep up by guessing another letter. When your guess is right, then the      guessed letter replaces any blank spaces where that letter is contained in the given word.
+  The game entails guessing the word you are given. Each guess needs to be any letter in the English alphabet. You start out with 6 lives. If your guess is wrong, then you get detracted 1 life     from your remaining lives. In case you have already guessed a certain letter, you do not lose a life, and are asked to keep up by guessing another letter. When your guess is right, then the      guessed letter replaces any blank spaces where that letter is contained in the given word. If you manage to guess the whole word, before the hangman diagram gets completed, then you win.
 </p>
 
 <p>
