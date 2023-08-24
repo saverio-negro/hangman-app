@@ -1,6 +1,6 @@
 # Hangman App
 
-<img src="/blackjack-image.png" width="80%" height="80%"></img>
+<img src="/hangman.png" width="80%" height="80%"></img>
 <br>
 Credit: <a href="https://crescent.edu/">Crescent School Gaming and Bartending</a>
 <hr>
