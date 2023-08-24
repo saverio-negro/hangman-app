@@ -6,8 +6,8 @@ Credit: <a href="https://crescent.edu/">Crescent School Gaming and Bartending</a
 <hr>
 
 <p>
-  Do you have a way with words? Lo and behold, Hangman is one of the games that best suits your need for lexical challenges. 😎
-  You haven't ever played Hangman before? What the he...Ehm, no worries!
+  Do you have a way with words? Lo and behold, Hangman is one of the games that best suits your need for lexical challenges. 😎 <br>
+  You haven't ever played Hangman before? What the he...Ehm, no worries! 😇
 </p>
 
 <p>
