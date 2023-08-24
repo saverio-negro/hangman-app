@@ -6,7 +6,7 @@ Credit: <a href="https://www.englishclub.com/">EnglishClub.com</a>
 <hr>
 
 <p>
-  Do you have a way with words? Lo and behold, Hangman is one of the games that best suits your need for lexical challenges. 😎 <br>
+  Do you have a way with words? Lo and behold, Hangman is one of the games that best suits your need for lexical challenges. 😎 <br><br>
   You haven't ever played Hangman before? What the he...Ehm, no worries! Head over to the Hangman Rules Section. 😇
 </p>
 
