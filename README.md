@@ -33,4 +33,10 @@ Credit: <a href="https://crescent.edu/">Crescent School Gaming and Bartending</a
 
 <hr>
 
-## Blackjack App on Replit
+## Hangman App on Replit
+
+You can also run the code to play with it on Replit. <br>
+
+<a href="https://replit.com/@saverionegro/hangman-app?v=1"><img src="/hangman-app-replit" width="80%" height="80%"></a>
+<br>
+<a href="https://replit.com/@saverionegro/hangman-app?v=1">Hangman App Replit</a>
