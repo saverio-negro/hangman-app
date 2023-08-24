@@ -1,8 +1,8 @@
 # Hangman App
 
-<img src="/hangman.png" width="80%" height="80%"></img>
+<img src="/hangman.png" width="40%" height="40%"></img>
 <br>
-Credit: <a href="https://crescent.edu/">Crescent School Gaming and Bartending</a>
+Credit: <a href="https://www.englishclub.com/">EnglishClub.com</a>
 <hr>
 
 <p>
